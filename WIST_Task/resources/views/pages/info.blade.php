@@ -16,7 +16,7 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
     />
     <!-- Main Template CSS File -->
-    <link rel="stylesheet" href="../../../public/assets/css/style.css" />
+    <link rel="stylesheet" href="{{ assets/css/style.css }}" />
     <title>Info</title>
   </head>
   <body>

@@ -87,13 +87,13 @@ align-content: center;
 color:var(--Light-green-background);
 gap: 12px;
 width:305px;
-height:98px;
+height:70px;
 font-family: Inter;
 font-size: 48px;
 font-weight: 600;
 line-height: 58px;
 letter-spacing: 0em;
-margin-left: 200px;
+margin-left: 150px;
 
 }
 
@@ -159,7 +159,7 @@ gap: 24px;
 height: 345px;
 top: 280px;
 left: 1285px;
-padding: '70px,29px,29.12px,29px';
+padding: '70px 29px 29.12px 29px';
 
 border: 1px;
 display: grid;

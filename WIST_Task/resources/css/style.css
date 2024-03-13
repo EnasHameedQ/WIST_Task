@@ -1,7 +1,7 @@
 
 /* Start Variables */
 :root {
- 
+
 --praimary-color: #3A4F39;/*Dark green-buttons */
  --Grey-input-text:#ABABAB;
 --Black-fonts-headings:#2D2E2E;
@@ -79,7 +79,7 @@ line-height: 116px;
 
 
 
- .cover button { 
+ .cover button {
 background-color:var(--praimary-color);
 border-radius: 1111px;
 display: grid;
@@ -103,20 +103,20 @@ background-color:var(--yallow);
 height:fit-content;
 margin-top: 10px;
 }
-  
+
 .grid-container {
   display: grid;
   justify-content: center;
     justify-items: stretch;
   grid-template-columns: auto auto auto;
 
-  
+
 }
 .grid-item {
   background-color:var(--yallow);
- 
+
   font-size: 30px;
-  
+
 }
 
 .div1 img{
@@ -191,11 +191,15 @@ gap: 12px;
 }
 
 /* info style*/
+.container .info{
+    padding: 0p;
+    margin-bottom: 0px;
+}
 .info{
 font-family: Poppins;
 letter-spacing: 1px;
 text-align: left;
-padding: 40px;
+padding: 0px 40px;
 }
 .want_more p{
 
@@ -209,6 +213,7 @@ line-height: 96px;
 font-size: 40px;
 font-weight: 500;
 line-height: 60px;
+border-bottom: 1px solid #3A4F39;
 }
 
 .info a{
@@ -352,7 +357,7 @@ padding: 5px;
   }
   .gx-5{
     --bs-gutter-x: 3rem;
-    
+
   }
   .row{
     display: flex;

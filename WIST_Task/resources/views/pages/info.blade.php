@@ -16,7 +16,7 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
     />
     <!-- Main Template CSS File -->
-    <link rel="stylesheet" href="{{ assets/css/style.css }}" />
+    <link rel="stylesheet" href="../assets/css/style.css" />
     <title>Info</title>
   </head>
   <body>
@@ -44,9 +44,9 @@
           <a href="https://twitter.com/danitesler">
             https://twitter.com/danitesler</a>
 <br>
-         <a href="cover.html"> cover page</a>
+         <a href="/pages/cover"> cover page</a>
        <br>
-         <a href="../index.html">Acmy</a>
+         <a href="../">Acmy</a>
         </div>
 
       </div>

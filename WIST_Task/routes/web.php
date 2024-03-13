@@ -16,10 +16,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
-Route::get('/', function () {
-    return view('pages/cover');
+Route::get('/pages/cover', function () {
+    return view('/pages.cover');
 });
-Route::get('/', function () {
-    return view('pages/info');
+Route::get('/pages/info', function () {
+    return view('/pages.info');
 });
 

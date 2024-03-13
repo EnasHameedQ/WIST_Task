@@ -13,7 +13,7 @@
       rel="stylesheet"
     />
     <!-- Main Template CSS File -->
-    <link rel="stylesheet" href="../../css/style.css" />
+    <link rel="stylesheet" href="../assets/css/style.css" />
 
     <title>Cover</title>
   </head>
@@ -30,7 +30,7 @@
         <p class="websection">
           Website Sections
         </p>
-       <a href="info.html">
+       <a href="info">
         <div class="cover">
         <button >
           PRO Pack
